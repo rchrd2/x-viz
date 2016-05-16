@@ -1,0 +1,26 @@
+{
+  "name": "x-viz",
+  "authors": [
+    "Richard Caceres @rchrd2"
+  ],
+  "description": "Web component for rendering a graphviz graph using viz-js.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "web",
+    "component",
+    "x-gui"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rchrd2/x-viz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "webcomponentsjs": "^0.7.22"
+  }
+}
