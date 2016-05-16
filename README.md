@@ -2,7 +2,7 @@
 
 Web component for rendering a graphviz graph using [viz-js](https://github.com/mdaines/viz.js/).
 
-Part of the [x-gui](https://github.com/rchrd2/x-gui) project.
+Part of the [x-gui](https://github.com/x-gui/x-gui) project.
 
 ## Example usage
 

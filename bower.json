@@ -12,7 +12,7 @@
     "x-gui"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/rchrd2/x-viz",
+  "homepage": "https://github.com/x-gui/x-viz",
   "ignore": [
     "**/.*",
     "node_modules",
